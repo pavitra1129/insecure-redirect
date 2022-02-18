@@ -1,0 +1,2 @@
+# insecure-redirect
+this is a simple tool that fetch all the URLs available on the domain and then will sort all of the URL's which are have =http anywhere in url then save it in a file called as =http.txt but for a new scan you have to delete the previous =http.txt file for a new scan after getting URLs having =http anywhere in the URL just change the website name to whatever you want then if it gets redirected to the website you specified that means the website is vulnerable if not then not vulnerable  
